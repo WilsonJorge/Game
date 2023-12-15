@@ -25,9 +25,7 @@ class Projectos extends BaseEntity{
     Oportunidade oportunidade
     Date dataInicio
     Date dataIniPlanificado
-    Date dataFimPlanificado
-    Area areaProjecto
-    TipoServico tipoServico
+    Date dataFimPlanif
 
     static final String ESTADO_CRIADO = 'Iniciado'
 
