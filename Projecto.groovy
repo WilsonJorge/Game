@@ -9,12 +9,7 @@ import intellica.consultoria.sistema.seguranca.auditoria.BaseEntity
 
 class Projectos extends BaseEntity{
 
-    String codigo
-    String nome
-    String descricao
-    double custo
-    double valorAdjudicacao
-    String actividades
+   
     String nota
     Date dataLimite
     String estado
