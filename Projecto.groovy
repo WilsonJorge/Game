@@ -44,11 +44,6 @@ class Projectos extends BaseEntity{
         fases nullable: true
         oportunidade nullable: true
         dataLimite nullable: true
-        dataInicio nullable: true
-        dataIniPlanificado nullable: true
-        dataFimPlanificado nullable: true
-        secUser nullable: true
-        
     }
 
     static mapping = {
